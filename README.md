@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Christina 👋
+
+- ⛪️ I make Bible software by day
+- 👩🏼‍💻 I sometimes make silly coding projects like [this viral Babel plugin](https://www.instagram.com/reel/Cxvwz76vBus/)
+- 🇪🇸 🇺🇸 I'm bilingual in Spanish
 
 <!--
 **christina-de-martinez/christina-de-martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +21,5 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+This section was generated using [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
