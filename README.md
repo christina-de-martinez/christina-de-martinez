@@ -92,3 +92,5 @@ Objective-C              1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 This section was generated using [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1228436873&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1228436873&redirect=true)
