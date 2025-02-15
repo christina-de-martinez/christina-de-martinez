@@ -5,7 +5,7 @@
 - 🇪🇸 🇺🇸 I'm bilingual in Spanish
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -14,6 +14,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 348.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 66 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,7 +57,7 @@ Objective-C              1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 01:15:33 UTC
+ Last Updated on 15/02/2025 01:14:41 UTC
 <!--END_SECTION:waka-->
 
 This section was generated using [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
