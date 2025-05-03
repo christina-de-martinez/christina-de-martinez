@@ -5,8 +5,6 @@
 - 🇪🇸 🇺🇸 I'm bilingual in Spanish
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.9%20million%20lines%20of%20code-blue)
@@ -23,27 +21,6 @@
  > 
 > 🔑 34 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                11442 commits       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-🌆 Daytime                21890 commits       ██████████████░░░░░░░░░░░   55.75 % 
-🌃 Evening                2691 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-🌙 Night                  3243 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   6335 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Tuesday                  7623 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Wednesday                1199 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Thursday                 5032 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Friday                   4386 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Saturday                 10106 commits       ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-Sunday                   4585 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-```
-
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -57,7 +34,7 @@ Objective-C              1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2025 01:24:19 UTC
+ Last Updated on 03/05/2025 01:23:32 UTC
 <!--END_SECTION:waka-->
 
 This section was generated using [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
