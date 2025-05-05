@@ -5,7 +5,7 @@
 - 🇪🇸 🇺🇸 I'm bilingual in Spanish
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -14,6 +14,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 357.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 174 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,17 +47,17 @@ Sunday                   4585 commits        ███░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               26 repos            █████████░░░░░░░░░░░░░░░░   36.62 % 
-TypeScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Astro                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-MDX                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Objective-C              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+JavaScript               25 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
+TypeScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Astro                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+MDX                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Objective-C              1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 
 
 
 
- Last Updated on 04/05/2025 01:32:37 UTC
+ Last Updated on 05/05/2025 01:27:40 UTC
 <!--END_SECTION:waka-->
 
 This section was generated using [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
