@@ -7,15 +7,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 357.2 kB Used in GitHub's Storage 
- > 
-> 🏆 176 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,7 +55,7 @@ Objective-C              1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2025 01:24:43 UTC
+ Last Updated on 15/05/2025 01:22:36 UTC
 <!--END_SECTION:waka-->
 
 This section was generated using [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
