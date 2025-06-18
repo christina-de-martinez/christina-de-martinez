@@ -1,7 +1,7 @@
 ## Hi, I'm Christina 👋
 
-- ⛪️ I make Bible software by day
-- 👩🏼‍💻 I sometimes make silly coding projects like [this viral Babel plugin](https://www.instagram.com/reel/Cxvwz76vBus/), [this Taylor Swift CLI tool](https://github.com/christina-de-martinez/swift-commits), and [this super mean github bot](https://github.com/christina-de-martinez/roast-my-code)
+- ⛪️ I make Bible software
+- 👩🏼‍💻 CEO of writing terrible software, like [this viral Babel plugin](https://www.instagram.com/reel/Cxvwz76vBus/), [this Taylor Swift CLI tool](https://github.com/christina-de-martinez/swift-commits), and [this super mean github bot](https://github.com/christina-de-martinez/roast-my-code)
 - 🇪🇸 🇺🇸 I'm bilingual in Spanish
 
 <!--START_SECTION:waka-->
