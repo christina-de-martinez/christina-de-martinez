@@ -5,8 +5,6 @@
 - 🇪🇸 🇺🇸 I'm bilingual in Spanish
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2044%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.2%20million%20lines%20of%20code-blue)
@@ -15,7 +13,7 @@
 
 > 📦 360.1 kB Used in GitHub's Storage 
  > 
-> 🏆 227 Contributions in the Year 2025
+> 🏆 228 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,7 +55,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 01:37:49 UTC
+ Last Updated on 02/07/2025 01:31:18 UTC
 <!--END_SECTION:waka-->
 
 This section was generated using [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
