@@ -1,7 +1,8 @@
 ## Hi, I'm Christina 👋
 
-- ⛪️ I make Bible software
-- 👩🏼‍💻 CEO of writing terrible software, like [this viral Babel plugin](https://www.instagram.com/reel/Cxvwz76vBus/), [this Taylor Swift CLI tool](https://github.com/christina-de-martinez/swift-commits), and [this super mean github bot](https://github.com/christina-de-martinez/roast-my-code)
+- 💌 DX Engineer at Resend
+- [Silly Software Club](https://sillysoftware.club)
+- 👩🏼‍💻 I make silly software, like [this viral Babel plugin](https://www.instagram.com/reel/Cxvwz76vBus/), [this Taylor Swift CLI tool](https://github.com/christina-de-martinez/swift-commits), and [this super mean github bot](https://github.com/christina-de-martinez/roast-my-code)
 - 🇪🇸 🇺🇸 I'm bilingual in Spanish
 
 <!--START_SECTION:waka-->
